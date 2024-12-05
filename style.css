@@ -1,0 +1,274 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+  background-color: rgba(70, 79, 70, 0.13);
+}
+.hero {
+    background-color: rgba(30, 88, 67, 0.888);
+      height: 100vh;
+    width: 100%;
+  }
+  .hero .nav{
+    padding: 10px 0px;
+    align-items: center;
+  }
+  .hero .nav .logo h2{
+    color: #fff;
+  }
+  .nav .menu{
+    gap: 20px;
+  }
+  .nav .menu a{
+    color: #fff;
+    text-decoration: none;
+  }
+  .nav svg{
+    color: #fff;
+  }
+  .hero-content{
+    height: 100%;
+  }
+  .hero-content .left-hero{
+width: 100%;
+padding-right: 50px;
+  }
+ 
+  .hero h1{
+color: #fff;
+font-weight: bold;
+margin-bottom: 40px;
+font-size: 50px;
+  }
+  .hero p{
+    color: rgb(244, 244, 244);
+    margin-bottom: 40px;
+  }
+  .hero .shop{
+    border-radius: 30px;
+    padding:10px 20px;
+    background-color: rgba(233, 233, 233, 0.834);
+    border: none;
+    color: #000;
+  }
+  .hero .explore{
+    border-radius: 30px;
+    padding:10px 20px;
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    border: solid 1px #ffffff9e;
+  }
+
+  /* explore section */
+  .explor{
+    margin-top: 80px;
+   display: flex;
+   gap: 20px;
+  }
+  .explor .text{
+    width:100%;
+  }
+  .explor .text button{
+    border-radius: 30px;
+    padding:10px 20px;
+    background-color: #000;
+    border: none;
+    color: #fff;
+  }
+  .explor .card{
+    border: none;
+    text-align: center;
+    width: 100%;
+    position: relative;
+    box-shadow: 0 10px 20px rgba(70, 70, 70, 0.1);
+    cursor: pointer;
+    height: 60vh;
+    background-color: #ffffff37;
+  }  
+
+  .card:hover{
+    background-color: #c5c4c4;
+  } 
+  
+  .explor .card img{
+    width: 100%;
+  }
+
+  .button{
+    position: absolute;
+    background-color: #191717a8;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    left: 50%;
+    bottom: -23px;
+    transform: translateX(-50%);  
+    opacity: 0;
+    border: none;
+    color: white;
+    font-size: 24px; 
+    cursor: pointer;
+    
+
+  }
+  .card:hover .button {
+    opacity: 1; 
+  }
+  .features{
+ margin-top:300px;
+
+
+  }
+  .features-left{
+  width: 100%;
+  display: flex;
+ gap: 40px;
+  flex-direction: column;
+  }
+ .features-right{
+width: 100%;
+display: flex;
+justify-content: flex-end;
+
+ }
+ .features-right img{
+  width: 80%;
+  border-radius: 20px;
+ }
+ .features-left2{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+
+ }
+ .features-left2 > * {
+  flex: 0 0 calc(50% - 10px);
+}
+.enterior-Design{
+  margin-top: 200px;
+}
+.enterior-left {
+ width: 60%;
+ display: flex;
+  position: relative;
+  z-index: 1;
+}
+.enterior-right {
+  width:40% ;
+  padding-left: 40px;
+  display: flex;
+  flex-direction: column;
+ }
+ .hh{
+  display: flex;
+  flex-wrap: wrap;
+ }
+ .hh{
+  margin-top: 20px;
+ }
+ .hh > *{
+  flex: 0 0 calc(50% - 10px);
+ }
+ 
+.topchairs{
+  margin-top: 200px;
+  display: flex;
+  justify-content: center;
+  
+}
+.Test1{
+
+  margin: 20px;
+  display: flex;
+gap: 20px;
+ text-align: left;
+ align-items: center;
+
+}
+.Test2{
+  background-color: aquamarine;
+  margin: 20px;
+  display: flex;
+
+ text-align: left;
+
+}
+.Test3{
+  background-color: aquamarine;
+  margin: 20px;
+  display: flex;
+
+ text-align: left;
+
+}
+.Testimonials2{
+ /* height: 70vh; */
+ margin-top: 100px;
+}
+.test-img {
+  width: 100px;
+  height: 100px;
+  display: block;
+  border-radius: 50%;
+  margin-left:  auto;
+  margin-right: auto;
+}
+
+.carousel-indicators{
+  margin-top: 200px!important;
+}
+.carousel-indicators button{
+  width: 15px!important;
+  height: 15px!important;
+  border-radius: 50%;
+  background-color: rgb(13, 50, 13)!important;
+}
+
+.blogs{
+  display: flex;
+  gap: 20px;
+}
+.footer{
+margin-top: 150px;
+background-color: #fff;
+}
+.ul{
+list-style: none;
+padding-top: 70px;
+}
+.li{
+  margin-bottom: 15px;
+  font-size:medium;
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: none;
+
+  
+}
+.li a{
+  text-decoration: none;
+  color: #000;
+}
+.but{
+  width: 45px;
+   height: 45px;
+    border: none; 
+    border-radius: 50%; 
+    background-color: #bdbdbd;
+}
+.but:hover{
+  background-color: #818080;
+}
+
+.log-butt{
+  width: 70px;  
+  height: 45px; 
+  border-radius: 10px; 
+  border: none; 
+  background-color: rgb(149, 148, 148);
+}
+.log-butt:hover{
+  background-color: #6b6b6b;
+}

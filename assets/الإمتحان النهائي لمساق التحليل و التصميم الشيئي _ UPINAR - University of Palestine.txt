@@ -1,0 +1,1702 @@
+Skip to main content <#maincontent>
+UPINAR
+
+
+  التحليل والتصميم الشيئي
+
+Back <https://upinar.edu.ps/mod/quiz/view.php?id=281319>
+Time left 0:56:52
+Hide
+
+
+      Question 1
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+ Which UML diagram is shown below?
+
+Question 1 Answer
+
+a.
+
+ Use Case
+
+b.
+
+ State Chart
+
+c.
+
+ Activity
+
+d.
+
+Object Diagram
+
+Clear my choice <#>
+
+
+      Question 2
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+Which diagram in UML shows a complete or partial view of the structure
+of a modeled system at a specific time?
+
+Question 2 Answer
+
+a.
+
+Collaboration Diagram
+
+b.
+
+Object Diagram
+
+c.
+
+Sequence Diagram
+
+d.
+
+Class Diagram
+
+Clear my choice <#>
+
+
+      Question 3
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+Object diagram captures the behavior of a single use case.
+
+Question 3 Answer
+
+a.
+
+False
+
+b.
+
+True
+
+Clear my choice <#>
+
+
+      Question 4
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        can represent the invocation of an operation, a step in a
+        business p an entire business process. 
+
+Question 4 Answer
+
+a.
+
+Use case 
+
+
+b.
+
+Activity
+
+c.
+
+State machine 
+
+d.
+
+Interaction 
+
+Clear my choice <#>
+
+
+      Question 5
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        Which of the following is/are the characteristic/s of an object?
+
+Question 5 Answer
+
+a.
+
+Set of operations (behavior)
+
+b.
+
+All the answers
+
+c.
+
+Set of states
+
+
+d.
+
+ Unique identification
+
+
+e.
+
+Set of attributes
+
+
+Clear my choice <#>
+
+
+      Question 6
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        SDLC: The Design Phase includes:
+
+
+Question 6 Answer
+
+a.
+
+Design architecture and interfaces
+
+
+b.
+
+All the answers
+
+c.
+
+Develop databases and file specifications
+
+
+d.
+
+Develop the program design
+
+
+e.
+
+ Develop a design strategy
+
+
+Clear my choice <#>
+
+
+      Question 7
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+Which of the following UML diagrams has a static view? 
+
+Question 7 Answer
+
+a.
+
+State chart
+
+b.
+
+Use case
+
+c.
+
+Activity
+
+d.
+
+Collaboration
+
+Clear my choice <#>
+
+
+      Question 8
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+ Which of the following term is best defined by the statement:”a
+structural relationship that specifies that objects of one thing are
+connected to objects of another”?
+
+Question 8 Answer
+
+a.
+
+Realization
+
+b.
+
+Generalization
+
+c.
+
+Aggregation
+
+d.
+
+Association
+
+Clear my choice <#>
+
+
+      Question 9
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        Which of the following is the reason/s for constructing a model?
+
+Question 9 Answer
+
+a.
+
+To set the stage for communication between client and developer
+
+b.
+
+  For reduction of complexity in order to understand it
+
+
+c.
+
+  To test a physical entity before building it
+
+
+d.
+
+For visualization or for finding alternative representations
+
+e.
+
+All the answers
+
+Clear my choice <#>
+
+
+      Question 10
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        Algorithmic and object-oriented are the two common ways for
+        modeling ________
+
+Question 10 Answer
+
+a.
+
+Non-software Systems
+
+b.
+
+Client/Server System 
+
+c.
+
+Vocabulary of a System 
+
+d.
+
+Software Systems 
+
+Clear my choice <#>
+
+
+      Question 11
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        The functional model describes the  —————- aspects of a system.
+
+Question 11 Answer
+
+a.
+
+ Behavioral
+
+
+b.
+
+ functional
+
+
+c.
+
+ transformational
+
+
+d.
+
+All the answers
+
+Clear my choice <#>
+
+
+      Question 12
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+Which UML diagram is shown below?
+
+Question 12 Answer
+
+a.
+
+Use Case
+
+b.
+
+ Class Diagram
+
+c.
+
+Collaboration Diagram
+
+d.
+
+Object Diagram
+
+Clear my choice <#>
+
+
+      Question 13
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+         Models help us to________ a system as it is or the way it is
+        wanted. 
+
+Question 13 Answer
+
+a.
+
+Measure 
+
+b.
+
+Analyze 
+
+c.
+
+Visualize 
+
+d.
+
+Design 
+
+Clear my choice <#>
+
+
+      Question 14
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        helps to communicate the overall system architecture
+        unambiguously________
+
+Question 14 Answer
+
+a.
+
+SRS 
+
+b.
+
+Designing 
+
+c.
+
+Templates
+
+d.
+
+Flow charts 
+
+Clear my choice <#>
+
+
+      Question 15
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+What type of relationship is represented by Shape class and Square ?
+
+Question 15 Answer
+
+a.
+
+Generalization
+
+b.
+
+Dependency
+
+c.
+
+Realization
+
+d.
+
+Aggregation
+
+Clear my choice <#>
+
+
+      Question 16
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        One way to assess the organizational feasibility of the project
+        is to understand how well the goals of the project align with
+        business objectives
+
+
+Question 16 Answer
+
+a.
+
+false
+
+b.
+
+True
+
+Clear my choice <#>
+
+
+      Question 17
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        Use cases________ 
+
+Question 17 Answer
+
+a.
+
+Identify business processes 
+
+b.
+
+Identify system goals 
+
+c.
+
+Describe workflow 
+
+d.
+
+Prioritize system procedures 
+
+Clear my choice <#>
+
+
+      Question 18
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        A class describes
+
+Question 18 Answer
+
+a.
+
+ the basic attributes and the operations of the objects of that type
+
+
+b.
+
+All the answers
+
+c.
+
+ a collection of similar objects
+
+
+d.
+
+a template where basic characteristics of a set of objects are defined
+
+Clear my choice <#>
+
+
+      Question 19
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        The basic step/s of system designing using Object-Oriented
+        Modelling is/are 
+
+Question 19 Answer
+
+a.
+
+System Design
+
+b.
+
+Implementation
+
+c.
+
+Object Design
+
+d.
+
+All the answers
+
+e.
+
+System Analysis
+
+Clear my choice <#>
+
+
+      Question 20
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+         Which diagram shows the configuration of run-time processing
+        elements?
+
+Question 20 Answer
+
+a.
+
+ER-diagram
+
+b.
+
+Node diagram
+
+c.
+
+Component diagram
+
+d.
+
+Deployment diagram
+
+Clear my choice <#>
+
+
+      Question 21
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+ Which core element of UML is being shown in the figure?
+
+The core element of UML being shown in the figure is Component
+
+Question 21 Answer
+
+a.
+
+Node
+
+b.
+
+Component
+
+c.
+
+Class
+
+d.
+
+Interface
+
+Clear my choice <#>
+
+
+      Question 22
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        Which one of the following GOAD artifacts is the MOST useful?
+
+Question 22 Answer
+
+a.
+
+Activity diagrams 
+
+b.
+
+Use cases 
+
+c.
+
+Package diagrams 
+
+d.
+
+Interaction diagrams 
+
+Clear my choice <#>
+
+
+      Question 23
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+Which UML diagram is shown below?
+
+Question 23 Answer
+
+a.
+
+Collaboration Diagram
+
+b.
+
+Object Diagram
+
+c.
+
+ Use Case
+
+d.
+
+Sequence Diagram
+
+Clear my choice <#>
+
+
+      Question 24
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        During the design phase, the overall ———— of the system is
+        described.
+
+Question 24 Answer
+
+a.
+
+Data flow
+
+b.
+
+  None
+
+
+c.
+
+  System flow
+
+
+d.
+
+ Architecture
+
+
+Clear my choice <#>
+
+
+      Question 25
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+Which UML diagram is shown below?
+
+Question 25 Answer
+
+a.
+
+Collaboration Diagram
+
+b.
+
+Deployment diagram
+
+c.
+
+Object Diagram
+
+d.
+
+Class Diagram
+
+Clear my choice <#>
+
+
+      Question 26
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        SDLC: The Analysis Phase includes:
+
+
+Question 26 Answer
+
+a.
+
+Develop a system proposal
+
+b.
+
+All the answers
+
+c.
+
+ Gather the requirements
+
+
+d.
+
+Develop an analysis strategy
+
+
+Clear my choice <#>
+
+
+      Question 27
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+         What type of core-relationship is represented by the symbol in
+        the figure below?
+
+The type of core-relationship represented by the symbol in the figure is
+Aggregation
+
+Question 27 Answer
+
+a.
+
+Generalization
+
+b.
+
+Dependency
+
+c.
+
+Aggregation
+
+d.
+
+Association
+
+Clear my choice <#>
+
+
+      Question 28
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        Object-Oriented Modelling allows-
+
+Question 28 Answer
+
+a.
+
+   better quality can be achieved
+
+
+b.
+
+Higher productivity
+
+
+c.
+
+  lower maintenance cost
+
+
+d.
+
+All the answers
+
+Clear my choice <#>
+
+
+      Question 29
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        In which of the following phase required databases are created
+        and the complete system is transformed into an operational one?
+
+
+Question 29 Answer
+
+a.
+
+Design
+
+
+b.
+
+ None
+
+
+c.
+
+ Analysis
+
+
+d.
+
+Implementation
+
+Clear my choice <#>
+
+
+      Question 30
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        An/A ————– is a data value held by objects in a class.
+
+Question 30 Answer
+
+a.
+
+Data
+
+
+b.
+
+Attributes
+
+
+c.
+
+Functions
+
+
+d.
+
+None of the answers
+
+Clear my choice <#>
+
+
+      Question 31
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        The essential characteristics of an object that distinguish it
+        from all other kinds of objects and thus provide crisply defined
+        conceptual boundaries, relative to the perspective of the viewer
+        is called:
+
+Question 31 Answer
+
+a.
+
+Modularity
+
+b.
+
+Hierarchy
+
+c.
+
+Abstraction
+
+d.
+
+Encapsulation
+
+Clear my choice <#>
+
+
+      Question 32
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+         UML is useful to ________ a system as it is or as we want it to
+        be. 
+
+Question 32 Answer
+
+a.
+
+All the answers
+
+b.
+
+Visualize 
+
+c.
+
+Specify 
+
+d.
+
+Document 
+
+Clear my choice <#>
+
+
+      Question 33
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        What is that concept in type theory in which a single name may
+        denote objects of many different classes that are related by
+        some common super class referred to ______
+
+Question 33 Answer
+
+a.
+
+Monomorphism
+
+b.
+
+Polymorphism
+
+c.
+
+Generalization
+
+d.
+
+Type Checking
+
+Clear my choice <#>
+
+
+      Question 34
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        The phases of the Unified Process support an analyst in
+        developing information systems in an iterative and incremental
+        manner.
+
+
+Question 34 Answer
+
+a.
+
+True
+
+
+
+b.
+
+false
+
+Clear my choice <#>
+
+
+      Question 35
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+Which UML diagram is shown below?
+
+Question 35 Answer
+
+a.
+
+Sequence
+
+b.
+
+Activity
+
+c.
+
+Collaboration
+
+d.
+
+State chart
+
+Clear my choice <#>
+
+
+      Question 36
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        OMG means :
+
+Question 36 Answer
+
+a.
+
+object model graph
+
+b.
+
+object management group
+
+c.
+
+Oh my god!
+
+
+Clear my choice <#>
+
+
+      Question 37
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        A model is a _________ of reality
+
+Question 37 Answer
+
+a.
+
+Realization 
+
+b.
+
+Generalization 
+
+c.
+
+Complication 
+
+d.
+
+Simplification 
+
+Clear my choice <#>
+
+
+      Question 38
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+How many diagrams are here in Unified Modelling Language?
+
+Question 38 Answer
+
+a.
+
+nine
+
+b.
+
+eight
+
+c.
+
+seven
+
+d.
+
+six
+
+Clear my choice <#>
+
+
+      Question 39
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        defines the system's actions and how different parts contribute
+        to it. ________
+
+Question 39 Answer
+
+a.
+
+Use case 
+
+b.
+
+Structure 
+
+c.
+
+Behavior 
+
+d.
+
+Model 
+
+Clear my choice <#>
+
+
+      Question 40
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+          An Object-oriented program is structured as a community of
+        interacting  agents, called 
+
+Question 40 Answer
+
+a.
+
+Functions 
+
+b.
+
+Classes 
+
+c.
+
+Statements 
+
+d.
+
+Objects 
+
+Clear my choice <#>
+
+
+      Question 41
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+Which diagram in UML emphasizes the time-ordering of messages? 
+
+Question 41 Answer
+
+a.
+
+Sequence
+
+b.
+
+Collaboration
+
+c.
+
+Activity
+
+d.
+
+Class
+
+Clear my choice <#>
+
+
+      Question 42
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        In which principle, the models created explain the
+        identification of a problem and find its solution?
+
+Question 42 Answer
+
+a.
+
+Levels of Precision May Differ 
+
+
+b.
+
+The Choice of Model is Important 
+
+c.
+
+The Best Models are connected to Reality  
+
+d.
+
+No Single Model is Sufficient 
+
+Clear my choice <#>
+
+
+      Question 43
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        A collection of operations that specify the services rendered by
+        a class or component known as________ 
+
+
+Question 43 Answer
+
+a.
+
+Collaboration 
+
+b.
+
+Interaction 
+
+c.
+
+Interface 
+
+d.
+
+Class 
+
+Clear my choice <#>
+
+
+      Question 44
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        A project manager can use a structured, top-down approach
+        whereby high-level tasks are first defined and then broken down
+        into subtasks.
+
+
+Question 44 Answer
+
+a.
+
+false
+
+b.
+
+True
+
+Clear my choice <#>
+
+
+      Question 45
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+Which of the following is a building block of UML?
+
+Question 45 Answer
+
+a.
+
+All of the mentioned
+
+b.
+
+Diagrams
+
+c.
+
+Relationships
+
+d.
+
+Things
+
+Clear my choice <#>
+
+
+      Question 46
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+         Interaction Diagram is a combined term for
+
+Question 46 Answer
+
+a.
+
+Activity Diagram + State Chart Diagram
+
+b.
+
+None of the mentioned
+
+c.
+
+Deployment Diagram + Collaboration Diagram
+
+d.
+
+Sequence Diagram + Collaboration Diagram
+
+Clear my choice <#>
+
+
+      Question 47
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+Which of the following diagram is time oriented?
+
+Question 47 Answer
+
+a.
+
+Collaboration
+
+b.
+
+Sequence
+
+c.
+
+Activity
+
+d.
+
+None of the mentioned
+
+Clear my choice <#>
+
+
+      Question 48
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+Which UML diagram’s symbols are shown below?
+
+Question 48 Answer
+
+a.
+
+Object Diagram
+
+b.
+
+Collaboration Diagram
+
+c.
+
+ Deployment diagram
+
+d.
+
+Component Diagram
+
+Clear my choice <#>
+
+
+      Question 49
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+
+        In which of the following phase, the class objects and the
+        interrelationships of these classes are translated and actually
+        coded by using an object-oriented programming language?
+
+Question 49 Answer
+
+a.
+
+Analysis
+
+
+b.
+
+Design
+
+
+c.
+
+Development
+
+
+d.
+
+Testing
+
+
+Clear my choice <#>
+
+
+      Question 50
+
+Not yet answered
+Flag question
+
+
+        Question text
+
+. Structure diagrams emphasize the things that must be present in the
+system being modeled.
+
+Question 50 Answer
+
+a.
+
+False
+
+b.
+
+True
+
+Clear my choice <#>
+
+Network connection lost. (Autosave failed).
+
+Make a note of any responses entered on this page in the last few
+minutes, then try to re-connect.
+
+Once connection has been re-established, your responses should be saved
+and this message will disappear.
+
+Network connection restored. You may continue safely.
+
+
+    Blocks
+
+Skip Quiz navigation <#sb-1>
+
+
+Quiz navigation
+
+را <https://upinar.edu.ps/user/view.php?id=8622&course=12826>
+ريهام رائد المغاري
+Question 1This page <#question-334029-9>Question 2This page
+<#question-334029-37>Question 3This page <#question-334029-44>Question
+4This page <#question-334029-13>Question 5This page
+<#question-334029-8>Question 6This page <#question-334029-33>Question
+7This page <#question-334029-6>Question 8This page
+<#question-334029-47>Question 9This page <#question-334029-42>Question
+10This page <#question-334029-3>Question 11This page
+<#question-334029-20>Question 12This page <#question-334029-19>Question
+13This page <#question-334029-48>Question 14This page
+<#question-334029-30>Question 15This page <#question-334029-40>Question
+16This page <#question-334029-12>Question 17This page
+<#question-334029-5>Question 18This page <#question-334029-23>Question
+19This page <#question-334029-39>Question 20This page
+<#question-334029-45>Question 21This page <#question-334029-35>Question
+22This page <#question-334029-10>Question 23This page
+<#question-334029-26>Question 24This page <#question-334029-22>Question
+25This page <#question-334029-46>Question 26This page
+<#question-334029-4>Question 27This page <#question-334029-29>Question
+28This page <#question-334029-43>Question 29This page
+<#question-334029-2>Question 30This page <#question-334029-50>Question
+31This page <#question-334029-21>Question 32This page
+<#question-334029-27>Question 33This page <#question-334029-16>Question
+34This page <#question-334029-18>Question 35This page
+<#question-334029-34>Question 36This page <#question-334029-24>Question
+37This page <#question-334029-32>Question 38This page
+<#question-334029-17>Question 39This page <#question-334029-36>Question
+40This page <#question-334029-7>Question 41This page
+<#question-334029-25>Question 42This page <#question-334029-49>Question
+43This page <#question-334029-38>Question 44This page
+<#question-334029-11>Question 45This page <#question-334029-1>Question
+46This page <#question-334029-41>Question 47This page
+<#question-334029-14>Question 48This page <#question-334029-28>Question
+49This page <#question-334029-15>Question 50This page <#question-334029-31>
+Last saved: 21/10/24, 13:02:44
+Finish attempt ... <https://upinar.edu.ps/mod/quiz/summary.php?
+attempt=309214&cmid=281319>
+
