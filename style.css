@@ -10,6 +10,7 @@ body{
     background-color: rgba(30, 88, 67, 0.888);
       height: 100vh;
     width: 100%;
+    /* background-color: #0000000; */
   }
   .hero .nav{
     padding: 10px 0px;
